@@ -8,4 +8,7 @@ We are looking to curate high quality Machine Learning resources for building a 
 
 Each resource for each category has several different tags, depending on its content. Thank you for your help!
 
-https://docs.google.com/document/d/1hTrZNAPgpw1whxPrweAGR0-3SEcrulRVxG2VUVDv6yk/edit?usp=sharing
+[RESOURCES](https://docs.google.com/document/d/1hTrZNAPgpw1whxPrweAGR0-3SEcrulRVxG2VUVDv6yk/edit?usp=sharing)
+
+
+[PRESENTATION SLIDES](https://docs.google.com/presentation/d/1peDXthxjMA_BVtJJ141gzUujKk9vFycQ6CSyoMiv2vs/edit?usp=sharing)
